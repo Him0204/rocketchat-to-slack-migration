@@ -1,5 +1,14 @@
 # Rocket.Chat to Slack Message Migration
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Him0204/rocketchat-to-slack-migration?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Him0204/rocketchat-to-slack-migration?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Him0204/rocketchat-to-slack-migration?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Him0204/rocketchat-to-slack-migration?style=social)
+![License](https://img.shields.io/github/license/Him0204/rocketchat-to-slack-migration?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Him0204/rocketchat-to-slack-migration?style=flat-square)
+
+![Migration Tool](https://img.shields.io/badge/Rocket.Chat%E2%86%92Slack-Migration-blueviolet?style=for-the-badge)
+
 ## Overview
 
 This repository provides a step-by-step guide and scripts to help you migrate messages from Rocket.Chat to Slack. Since there is no official direct migration tool, this process relies on exporting a Rocket.Chat MongoDB database dump, restoring it locally, and running a conversion script to reformat data for Slack’s import tool.
