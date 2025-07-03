@@ -183,7 +183,7 @@ Pull requests and issue reports are welcome! If you improve the script or find a
 ## Repository Structure
 
 ```
-rocket-to-slack-migration/
+rocketchat-to-slack-migration/
 ├── README.md                  # Main instructions (this file)
 ├── scripts/
 │   └── map_rc_to_slack.py     # Main conversion script
